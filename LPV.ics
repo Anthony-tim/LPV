@@ -3656,9 +3656,7 @@ LAST-MODIFIED:20251104T081325Z
 SUMMARY:LỄ VỌNG GIÁNG SINH
 DESCRIPTION:Lễ Vọng Chúa Giáng Sinh - Lễ trọng (tr). Cử hành vào chiều 24/12. 
  Kiêng việc xác. Lễ cho giáo dân.
-LOCATION:16.11: PV tím. 
- Lễ sáng: Is 62,1-5; Cv 13,16-17.22-25; Mt 1,1-25 hoặc Mt 1,18-25. 
- Lễ đêm: Is 9,1-6; Tt 2,11-14; Lc 2,1-14.
+LOCATION:16.11: PV tím. Lễ sáng: Is 62,1-5; Cv 13,16-17.22-25; Mt 1,1-25 hoặc Mt 1,18-25. Lễ đêm: Is 9,1-6; Tt 2,11-14; Lc 2,1-14.
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -3673,9 +3671,7 @@ CREATED:20251104T081249Z
 LAST-MODIFIED:20251104T081325Z
 SUMMARY:LỄ GIÁNG SINH
 DESCRIPTION:Mừng Chúa Giáng Sinh - Lễ trọng (tr). Kiêng việc xác. Lễ cho giáo dân.
-LOCATION:17.11: PV trắng. 
- Lễ rạng đông: Is 62,1-5; Cv 13,16-17.22-25; Mt 1,1-25 hoặc Mt 1,18-25. 
- Lễ chính ngày: Is 9,1-6; Tt 2,11-14; Lc 2,1-14.
+LOCATION:17.11: PV trắng. Lễ rạng đông: Is 62,1-5; Cv 13,16-17.22-25; Mt 1,1-25 hoặc Mt 1,18-25. Lễ chính ngày: Is 9,1-6; Tt 2,11-14; Lc 2,1-14.
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -3703,11 +3699,11 @@ DTSTAMP:20251105T122112Z
 UID:20261227-chuanhatII-giangsinh
 CREATED:20251104T081249Z
 LAST-MODIFIED:20251104T081325Z
-DESCRIPTION:Trại Gáo, Thượng Nậm, Thái Hòa chầu lượt
+DESCRIPTION:Ngày III trong Tuần Bát Nhật GS. Trại Gáo, Thượng Nậm, Thái Hòa chầu lượt
 LOCATION:19.11: PV trắng. St 15,1-6.21,1-3; Hr 11,8.11-12.17-19; Lc 2,22-40
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:CHÚA NHẬT TRONG TUẦN BÁT NHẬT GIÁNG SINH. Lễ kính Thánh Gia Thất. Ngày III trong Tuần Bát Nhật GS
+SUMMARY:CHÚA NHẬT TRONG TUẦN BÁT NHẬT GIÁNG SINH. Lễ kính Thánh Gia Thất
 TRANSP:OPAQUE
 END:VEVENT
 
